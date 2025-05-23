@@ -1,5 +1,5 @@
 {
-        "name": "worker-name",
+        "name": "testsite",
 	    "compatibility_date": "2025-05-23",
          "assets": {
                   "directory": "./components"
