@@ -14,8 +14,8 @@ interface ReviewsProps {
 
 const defaultReviews: ReviewData[] = [
   {
-    rating: 5,
-    title: "Best app ever!",
+    rating: 1,
+    title: "shitty app :D!",
     content:
       "This app has been a game-changer for me! It's made tracking my daily activities so much easier. I love how intuitive and user-friendly it is.",
     author: "Jonas Aly",
